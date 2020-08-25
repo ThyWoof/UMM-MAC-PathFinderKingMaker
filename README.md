@@ -24,4 +24,4 @@ I have both Windows and Mac. All I did was install UMM on Windows following the 
 
 3. Download ZIP file from this repo and copy extracted contents into */Users//Library/Application Support/Steam/steamapps/common/Pathfinder Kingmaker/Kingmaker.app/Contents/Resources/Data/Managed*
 
-TESTED WITH Pathfinder:Kingmaker 2.0.8 only.
+TESTED WITH Pathfinder:Kingmaker 2.1.0j only.
