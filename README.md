@@ -18,10 +18,11 @@ I have both Windows and Mac. All I did was install UMM on Windows following the 
 
 ## Steam
 
-1. Create a folder */Users//Library/Application Support/Steam/steamapps/common/Pathfinder Kingmaker/Mods*. This is where you will have to manually unzip any mod you are considering to use.
+1. Create a folder */Users//Library/Application\ Support/Steam/steamapps/common/Pathfinder Kingmaker/Mods*. This is where you will have to manually unzip any mod you are considering to use.
 
-2. Backup */Applications/Pathfinder Kingmaker/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll*.
+2. Backup */Applications/Pathfinder\ Kingmaker/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll*.
+(this may be named */Applications/Pathfinder\ Kingmaker.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll* )
 
-3. Download ZIP file from this repo and copy extracted contents into */Users//Library/Application Support/Steam/steamapps/common/Pathfinder Kingmaker/Kingmaker.app/Contents/Resources/Data/Managed*
+3. Download ZIP file from this repo and copy extracted contents into */Users//Library/Application\ Support/Steam/steamapps/common/Pathfinder Kingmaker/Kingmaker.app/Contents/Resources/Data/Managed*
 
 TESTED WITH Pathfinder:Kingmaker 2.1.5d only.
